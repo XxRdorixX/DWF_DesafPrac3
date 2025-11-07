@@ -81,7 +81,7 @@ Maven installed.
   
 4. write to terminal
 ```
-cd backend/bookapi
+cd Desafio3_Escobar_Martinez/backend/bookapi
  ```
 5. Build the project
   ```
